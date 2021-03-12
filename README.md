@@ -3,6 +3,8 @@ The VGS Show.js JavaScript library enables you to securely display sensitive dat
 
 Live demo is here: https://verygoodsecurity.github.io/vgs-show-examples/
 
+<img width="600px" src="https://www.verygoodsecurity.com/docs/vgs_theme/static/img/vgs-show-diagram.png"/>
+
 ## How to run
 ```
 npm i
