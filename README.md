@@ -1,4 +1,4 @@
-# hot to run
+# how to run
 ```
 npm i
 npm run dev
