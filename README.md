@@ -13,7 +13,7 @@ npm run dev
 
 ## Useful links
 - <a href="https://www.verygoodsecurity.com/docs/vgs-show/overview" target="_blank">VGS Show overview</a> 
-- <a href="https://www.verygoodsecurity.com/docs/vgs-show/js/overview" target="_blank">VGS Show.js documantation</a> 
+- <a href="https://www.verygoodsecurity.com/docs/vgs-show/js/overview" target="_blank">VGS Show.js documentation</a> 
 - <a href="https://www.verygoodsecurity.com/docs/vgs-show/js/configuration#code-examples" target="_blank">More code examples</a> 
 - <a href="https://www.verygoodsecurity.com/docs/vgs-show/ios-sdk/overview" target="_blank">VGS Show for mobile: iOS SDK documentation</a> 
 - <a href="https://www.verygoodsecurity.com/docs/vgs-show/android-sdk/overview" target="_blank">VGS Show for mobile: Android SDK documentation</a> 
